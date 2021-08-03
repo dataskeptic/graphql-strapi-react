@@ -21,8 +21,8 @@
     "strapi-plugin-upload": "3.6.5",
     "strapi-plugin-i18n": "3.6.5",
     "strapi-connector-bookshelf": "3.6.5",
-    "knex": "0.21.18",
-    "sqlite3": "5.0.0"
+    "knex": "0.95.9",
+    "sqlite3": "5.0.2"
   },
   "author": {
     "name": "A Strapi developer"
