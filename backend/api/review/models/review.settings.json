@@ -26,6 +26,11 @@
     "body": {
       "type": "richtext",
       "required": true
+    },
+    "categories": {
+      "collection": "category",
+      "via": "reviews",
+      "dominant": true
     }
   }
 }
